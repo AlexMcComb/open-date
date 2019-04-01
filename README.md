@@ -35,8 +35,8 @@
 
 ![code](screenshots/code.png)
 
-<h2>Final Poster/h2>
+<h2>Final Poster</h2>
 
-![code](screenshots/FinalPoster.pdf)
+[poster](screenshots/FinalPoster.pdf)
 
 
