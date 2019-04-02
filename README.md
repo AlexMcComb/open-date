@@ -14,7 +14,6 @@
 - JavaScript
 - Python
 - ArcGIS Server
-- JavaScript
 - HTML / CSS
 
 
